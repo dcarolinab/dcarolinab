@@ -10,8 +10,6 @@
 
 ##
 
-<img src="https://github-readme-stats.vercel.app/api?username=dcarolinab&show_icons=true&locale=pt-br&theme=dracula&rank_icon=github" />
-
 <div>
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
