@@ -18,3 +18,4 @@
   <img align="center" alt="Carol-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
   
+![Snake animation](https://github.com/dcarolinab/dcarolinab/blob/output/github-contribution-grid-snake.svg)
