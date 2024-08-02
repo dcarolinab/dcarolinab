@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💫 About me
-🔭 I’m currently working on: Product Support at @Loggi<br>
+🔭 I’m currently working on: Product Support II at @Loggi<br>
 👯 I’m looking to collaborate on: Projects related to Python and software development<br>
 🤝 I’m looking for help with: Tips and best practices to improve my Python skills<br>
 🌱 I’m currently learning: Python<br>
