@@ -1,17 +1,18 @@
-## Hey! 🤙🏻
+## 👩🏻‍💻 Hey, I'm Carolina! 🤙🏻  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcarolinab)  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:carolina.soofer@gmail.com)  
 
-### 🌟 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcarolinab)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dcarolinab)
+Passionate about coding and continuous learning.  
+
+💡 Currently diving deeper into **Python, Java and Go**  
+🤝 Open to collaboration on exciting projects and new challenges  
+🎮 Fun fact: I’m also an **e-Football player!**  
+
+---
 
 ### 🛠️ Skills & Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 💫 About me
-👯 I’m looking to collaborate on: Projects related to Python, Java and software development<br>
-🤝 I’m looking for help with: Tips and best practices to improve my Python and Java skills<br>
-🌱 I’m currently learning: Python, Java and Go<br>
-⚡ Fun fact: I’m an e-Football player!
+**Currently Learning:**  
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
