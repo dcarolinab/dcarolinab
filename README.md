@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Hey, I'm Carolina! 🤙🏻  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcarolinab)  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:carolina.soofer@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:carolina.soofer@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcarolinab) 
 
 Passionate about coding and continuous learning.  
 
