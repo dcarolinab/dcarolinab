@@ -1,19 +1,36 @@
-## 👩🏻‍💻 Hey, I'm Carolina! 🤙🏻  
+# Hey! I'm Carol 👩🏻‍💻
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:carolina.soofer@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcarolinab) 
+Passionate about coding and continuous learning.
 
-Passionate about coding and continuous learning.  
+Currently improving my skills in **Python** and **Java**.  
+Open to collaboration on exciting projects and new challenges.
 
-💡 Currently diving deeper into **Python and Java**  
-🤝🏻 Open to collaboration on exciting projects and new challenges  
-🎮 Fun fact: I’m also an **e-Football player!**  
+## Connect with me
 
----
+<p align="left">
+  <a href="mailto:carolina.soofer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-### 🛠️ Skills & Technologies
+  <a href="https://linkedin.com/in/dcarolinab">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)  
+## Skills & Technologies
 
-### 🤓 Currently Learning:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+## Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
